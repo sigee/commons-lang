@@ -1148,7 +1148,7 @@ public class SystemUtils {
      * Is {@code true} if this is Android.
      *
      * <p>
-     * See https://developer.android.com/reference/java/lang/System#getProperties().
+     * See <a href="https://developer.android.com/reference/java/lang/System#getProperties()">Android Documentation</a>.
      * </p>
      * <p>
      * This value is initialized when the class is loaded.
@@ -1824,8 +1824,8 @@ public class SystemUtils {
      * OpenJDK fixed the return value for {@code os.name} on Windows 11 to versions 8, 11, and 17:
      * </p>
      * <ul>
-     * <li>Affects Java versions 7u321, 8u311, 11.0.13-oracle, 17.0.1: https://bugs.openjdk.org/browse/JDK-8274737</li>
-     * <li>Fixed in OpenJDK commit https://github.com/openjdk/jdk/commit/97ea9dd2f24f9f1fb9b9345a4202a825ee28e014</li>
+     * <li>Affects Java versions 7u321, 8u311, 11.0.13-oracle, 17.0.1: Based on the <a href="https://bugs.openjdk.org/browse/JDK-8274737">issue ticket</a></li>
+     * <li>Fixed in OpenJDK <a href="https://github.com/openjdk/jdk/commit/97ea9dd2f24f9f1fb9b9345a4202a825ee28e014">commit</a></li>
      * </ul>
      * <p>
      * This value is initialized when the class is loaded.

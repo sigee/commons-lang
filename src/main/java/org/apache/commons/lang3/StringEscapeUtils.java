@@ -545,7 +545,7 @@ public class StringEscapeUtils {
      * <p>The only difference between Java strings and Json strings
      * is that in Json, forward-slash (/) is escaped.</p>
      *
-     * <p>See https://www.ietf.org/rfc/rfc4627.txt for further details.</p>
+     * <p>See further details about <a href="https://www.ietf.org/rfc/rfc4627.txt">JSON Media Type</>.</p>
      *
      * <p>Example:</p>
      * <pre>

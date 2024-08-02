@@ -542,7 +542,7 @@ public class FieldUtils {
      *             if the field is {@code null}
      * @deprecated As of Java 12, we can no longer drop the {@code final} modifier, thus
      *             rendering this method obsolete. The JDK discussion about this change can be found
-     *             here: https://mail.openjdk.java.net/pipermail/core-libs-dev/2018-November/056486.html
+     *             <a href="https://mail.openjdk.java.net/pipermail/core-libs-dev/2018-November/056486.html">here</a>.
      * @since 3.3
      */
     @Deprecated

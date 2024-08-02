@@ -30,8 +30,8 @@ import org.apache.commons.lang3.function.Suppliers;
 
 /**
  * Combines the monitor and visitor pattern to work with {@link java.util.concurrent.locks.Lock locked objects}. Locked
- * objects are an alternative to synchronization. This, on Wikipedia, is known as the Visitor pattern
- * (https://en.wikipedia.org/wiki/Visitor_pattern), and from the "Gang of Four" "Design Patterns" book's Visitor pattern
+ * objects are an alternative to synchronization. This, on Wikipedia, is known as the <a href="https://en.wikipedia.org/wiki/Visitor_pattern">Visitor pattern</a>
+ * and from the "Gang of Four" "Design Patterns" book's Visitor pattern
  * [Gamma, E., Helm, R., &amp; Johnson, R. (1998). Visitor. In Design patterns elements of reusable object oriented software (pp. 331-344). Reading: Addison Wesley.].
  *
  * <p>
